@@ -1,5 +1,3 @@
-// ProfileRegistration.js
-
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import '../Style/ProfileRegistration.css';
@@ -46,7 +44,7 @@ const ProfileRegistration = () => {
 
     if (formData.password !== formData.confirmPassword) {
       errors.confirmPassword = 'Passwords do not match';
-    }
+    } 
 
     setErrors(errors);
 
