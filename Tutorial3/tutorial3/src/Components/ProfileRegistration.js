@@ -62,7 +62,7 @@ const ProfileRegistration = () => {
   };
 
   return (
-    <div className="container">
+    <div className="form-container">
       <h1 className="header">Registration Form</h1>
       <form onSubmit={handleSubmit}>
         <div className="form-group">

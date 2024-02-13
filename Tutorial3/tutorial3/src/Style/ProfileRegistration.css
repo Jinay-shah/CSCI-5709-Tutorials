@@ -1,10 +1,11 @@
-.container {
-    background-color: #76aedf; 
+  .form-container {
+    background-color: #92daf6; 
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     padding: 20px;
     margin: 20px auto;
     max-width: 400px;
+    border-color: #0cd512;
   }
   
   .header {
@@ -15,6 +16,7 @@
   
   .form-group {
     margin-bottom: 20px;
+    margin-right: 20px;
   }
   
   label {
@@ -46,6 +48,6 @@
   }
   
   button:hover {
-    background-color: #45a049; 
+    background-color: #eba52c; 
   }
   

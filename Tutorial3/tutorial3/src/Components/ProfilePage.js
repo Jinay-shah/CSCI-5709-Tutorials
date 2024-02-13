@@ -3,7 +3,7 @@ import '../Style/ProfilePage.css';
 
 const ProfilePage = () => {
   return (
-    <div className="container">
+    <div className="profile-container">
       <h1 className="header">Profile Page</h1>
       <div className="profile-details">
         <label>First Name:</label>
