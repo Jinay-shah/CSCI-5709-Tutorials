@@ -399,10 +399,10 @@ export default SendForm;
 ```
 
 
-- The code was implemented by me for creating the registration form  for my tutorial3 in CSCI-5709. I was going through the internet for how to create form in react framework and applying form validation on it. Then, I found this two site where form was created in react with validation. So i took reference of [freeCodeCamp](https://www.freecodecamp.org/news/how-to-create-forms-in-react-using-react-hook-form/) [stackoverflow](https://stackoverflow.com/questions/41348459/regex-in-react-email-validation). 
+- The code was implemented by me for creating the registration form  for my tutorial3 in CSCI-5709. I was going through the internet for how to create form in react framework and applying form validation on it. Then, I found this two site where form was created in react with validation. So i took reference of [freeCodeCamp](https://www.freecodecamp.org/news/how-to-create-forms-in-react-using-react-hook-form/) & [stackoverflow](https://stackoverflow.com/questions/41348459/regex-in-react-email-validation). 
 
  
-- The given [freeCodeCamp](https://www.freecodecamp.org/news/how-to-create-forms-in-react-using-react-hook-form/)'s [stackoverflow](https://stackoverflow.com/questions/41348459/regex-in-react-email-validation)'s code was used as a reference to learn how to create form and apply specific validation.
+- The given [freeCodeCamp](https://www.freecodecamp.org/news/how-to-create-forms-in-react-using-react-hook-form/)'s & [stackoverflow](https://stackoverflow.com/questions/41348459/regex-in-react-email-validation)'s code was used as a reference to learn how to create form and apply specific validation.
 
 
 ### References
