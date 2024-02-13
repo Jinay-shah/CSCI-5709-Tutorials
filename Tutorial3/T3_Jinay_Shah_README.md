@@ -9,8 +9,9 @@
 
 ## Links
 
-Tutorial 3  Application deployed on Netlify URL: [https://jinay-shah-tutorial-3.netlify.app/] (https://jinay-shah-tutorial-3.netlify.app/)
-Tutorial 3  Application code on GitLab URL : [https://git.cs.dal.ca/jinays/csci-5709-tutorials/-/tree/main/Tutorial3?ref_type=heads](https://git.cs.dal.ca/jinays/csci-5709-tutorials/-/tree/main/Tutorial3?ref_type=heads)
+- Tutorial 3  Application deployed on Netlify URL: [https://jinay-shah-tutorial-3.netlify.app/] (https://jinay-shah-tutorial-3.netlify.app/)
+
+- Tutorial 3  Application code on GitLab URL : [https://git.cs.dal.ca/jinays/csci-5709-tutorials/-/tree/main/Tutorial3?ref_type=heads](https://git.cs.dal.ca/jinays/csci-5709-tutorials/-/tree/main/Tutorial3?ref_type=heads)
 
 ## Testing
 
