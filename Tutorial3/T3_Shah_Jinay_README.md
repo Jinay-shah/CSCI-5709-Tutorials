@@ -5,7 +5,7 @@
     Banner ID: B00928737 \
     Email ID: jn851778@dal.ca \
     Date Created: 13 Feb 2024 \
-    Last Modification Date: 13 Feb 2024
+    Last Modification Date: 15 Feb 2024
 
 ## Links
 
@@ -21,9 +21,8 @@ For the testing of the assignment, I started the webapp in my local machine then
 
 1. First of all, I Cloned my `CSCI 5709 Tutorials` repository to my local machine.
 2. Then, I created a new project with the following command in [React](https://react.dev) using `npx create-react-app tutorial3` command.
-4. Afterwards, I pushed my user-management project to my GitHub account repository.
+4. Afterwards, I pushed my tutorial3 project to my GitHub account repository.
 5. I deployed my app on [Netlify](https://www.netlify.com).
-6. I modified the changes in the app for functionality and pushed the changes to the github repository.
 7. I created a `README.md` file and pushed it to the gitlab repository.
 
 ## Built With
