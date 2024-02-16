@@ -21,9 +21,9 @@ For the testing of the assignment, I started the webapp in my local machine then
 
 1. First of all, I Cloned my `CSCI 5709 Tutorials` repository to my local machine.
 2. Then, I created a new project with the following command in [React](https://react.dev) using `npx create-react-app tutorial3` command.
-4. Afterwards, I pushed my tutorial3 project to my GitHub account repository.
-5. I deployed my app on [Netlify](https://www.netlify.com).
-7. I created a `README.md` file and pushed it to the gitlab repository.
+3. Afterwards, I pushed my tutorial3 project to my GitHub account repository.
+4. I deployed my app on [Netlify](https://www.netlify.com).
+5. I created a `README.md` file and pushed it to the gitlab repository.
 
 ## Built With
 
