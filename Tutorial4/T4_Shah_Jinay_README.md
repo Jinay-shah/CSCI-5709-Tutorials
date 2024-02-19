@@ -98,8 +98,7 @@ try {
         }
 
 ```
-
-```    
+  
 The code above was created by adapting the code from [stackoverflow](https://stackoverflow.com/questions/68105012/what-is-the-correct-way-to-pass-parameters-to-a-react-query-usequery-method-that) as shown below:
 
 ```
