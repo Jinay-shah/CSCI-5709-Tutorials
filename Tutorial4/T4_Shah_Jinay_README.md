@@ -9,9 +9,9 @@
 
 ## Links
 
-- Tutorial 4  Application deployed on Netlify URL: [] ()
+- Tutorial 4  Application deployed on Netlify URL: [https://tutorial4-shah-jinay.netlify.app/] (https://tutorial4-shah-jinay.netlify.app/)
 
-- Tutorial 4  Application code on GitLab URL : []()
+- Tutorial 4  Application code on GitLab URL : [https://git.cs.dal.ca/jinays/csci-5709-tutorials/-/tree/main/Tutorial4](https://git.cs.dal.ca/jinays/csci-5709-tutorials/-/tree/main/Tutorial4)
 
 ## Testing
 
