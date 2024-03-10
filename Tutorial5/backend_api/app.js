@@ -2,7 +2,18 @@ const express = require('express');
 const app = express();
 
 app.use(express.json());
-let users = [];
+let users = [
+    {
+        email: "abc@abc.ca",
+        firstName: "ABC",
+        id: "1710102214320" 
+      },
+      {
+        email: "xyz@xyz.ca",
+        firstName: "XYZ",
+        id: "1710102227532" 
+      }
+];
 
 app.get('/users', (req, res) => {
     res.status(200).json({
