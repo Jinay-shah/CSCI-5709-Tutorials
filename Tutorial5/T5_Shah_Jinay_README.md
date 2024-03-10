@@ -11,6 +11,8 @@
 
 - Tutorial 5  Application deployed on Render URL: [https://shah-jinay-tutorial-5.onrender.com/] (https://shah-jinay-tutorial-5.onrender.com/)
 
+- Tutorial 5 Application deplyoed on Render with initial GET Request: [https://shah-jinay-tutorial-5.onrender.com/users] (https://shah-jinay-tutorial-5.onrender.com/users)
+
 - Tutorial 5  Application code on GitLab URL : [https://git.cs.dal.ca/jinays/csci-5709-tutorials/-/tree/main/Tutorial5?ref_type=heads](https://git.cs.dal.ca/jinays/csci-5709-tutorials/-/tree/main/Tutorial5?ref_type=heads)
 
 ## Testing
