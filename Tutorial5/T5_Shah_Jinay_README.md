@@ -5,7 +5,7 @@
     Banner ID: B00928737 \
     Email ID: jn851778@dal.ca \
     Date Created: 10 Mar 2024 \
-    Last Modification Date: 10 Mar 2024
+    Last Modification Date: 12 Mar 2024
 
 ## Links
 
@@ -171,3 +171,7 @@ var server = app.listen(5000, function () {
 - The code was implemented by me for creating the REST API  for my tutorial5 in CSCI-5709. I was going through the internet for how to create Api in Node.js framework. Then, I found this site where REST Api is created in Node.js. So i took reference of [tutotialspoint](https://www.tutorialspoint.com/nodejs/nodejs_restful_api.htm)
 
 - The given [tutotialspoint](https://www.tutorialspoint.com/nodejs/nodejs_restful_api.htm)'s  code was used as a reference to learn how to create REST API's and send/receive data with server.
+
+## References
+
+[1] “Node.Js - RESTful API,” Tutorialspoint.com. [Online]. Available: https://www.tutorialspoint.com/nodejs/nodejs_restful_api.htm. [Accessed: 10-Mar-2024].
